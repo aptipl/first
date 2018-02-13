@@ -1,2 +1,2 @@
 # first
-For learning 
+My first repository For learning 
